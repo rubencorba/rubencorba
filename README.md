@@ -4,7 +4,7 @@
 ¡Hola! 👋 Soy Rubén Corbalán, un apasionado desarrollador web Full Stack.
 
 - 🎓 Estudiante de la Licenciatura en Sistemas de Información (UNSE).
-- 🚀 Culminando la última etapa del bootcamp de Henry.
+- 🚀 Recientemente egresado del bootcamp de Henry.
 
 ### Tecnologías y Herramientas
 Durante mi recorrido, he trabajado en diversos proyectos utilizando tecnologías como:
