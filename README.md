@@ -35,7 +35,6 @@ Estas experiencias me han brindado una gran versatilidad laboral, y estoy entusi
 Estoy abierto a nuevas oportunidades y colaboraciones, ansioso por aplicar mi experiencia y conocimientos en el desarrollo de soluciones innovadoras.
 
 ### Conéctate Conmigo
-¡Conectemos y exploremos juntos el fascinante mundo de la tecnología!
 
 [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-corbal%C3%A1n-760a06287/) | [GitHub](https://github.com/rubencorba)
 <!--
