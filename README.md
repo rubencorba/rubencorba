@@ -1,7 +1,7 @@
 # Rubén Corbalán
 ## Full Stack Developer | Apasionado por la tecnología 💻
 
-¡Hola! 👋 Soy Rubén Corbalán, un apasionado desarrollador web Full Stack.
+APASIONADO DESARROLLADOR WEB FULL STACK
 
 - 🎓 Estudiante de la Licenciatura en Sistemas de Información (UNSE).
 - 🚀 Recientemente egresado del bootcamp de Henry.
