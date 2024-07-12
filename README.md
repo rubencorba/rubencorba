@@ -32,7 +32,7 @@ Me caracterizo por ser una persona que disfruta de los desafíos, los viajes y l
 Estas experiencias me han brindado una gran versatilidad laboral, y estoy entusiasmado por aprovecharla para contribuir a proyectos en el ámbito de IT.
 
 ### Oportunidades y Colaboraciones
-Estoy abierto a nuevas oportunidades y colaboraciones, ansioso por aplicar mi experiencia y conocimientos en el desarrollo de soluciones innovadoras.
+Estoy abierto a nuevos desafíos para poder aplicar mi experiencia y conocimientos en el desarrollo de soluciones innovadoras.
 
 ### Conéctate Conmigo
 
